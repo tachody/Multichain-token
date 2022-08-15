@@ -8,7 +8,7 @@
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "@openzeppelin/contracts": "^4.4.0"
+    "@openzeppelin/contracts": "^4.7.3"
   },
   "devDependencies": {
     "hardhat": "^2.8.0"
